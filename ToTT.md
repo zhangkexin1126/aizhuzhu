@@ -31,7 +31,7 @@
 >> #### 杭州市  
 |杭州市|链接|
 |:----|:----|
-| 2021年杭州市各级机关单位考试录用公务员公告|http://gwy.zjks.gov.cn/zjgwy/website/queryDetail.htm|
+|2021年杭州市各级机关单位考试录用公务员公告|http://gwy.zjks.gov.cn/zjgwy/website/queryDetail.htm|
 
 
 >> #### 嘉兴市  
